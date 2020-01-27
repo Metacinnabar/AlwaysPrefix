@@ -1,4 +1,4 @@
 displayName = Always a Prefix
 author = GoodPro712
-version = 1.2
+version = 1.0.2
 modReferences = GoodProLib@0.2
