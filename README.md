@@ -3,7 +3,5 @@ Always a Prefix makes every item you obtain to choose the prefix you selected in
 YOU HAVE TO SET A VALUE IN THE MOD'S CONFIG OR ELSE THIS MOD WON't DO ANYTHING
 Navigate to the mod config via Mods > find Always a Prefix > Press the config button (a gear with a wrench)
 
-Forum: https://forums.terraria.org/index.php?threads/always-a-prefix.85667/
-Discord: https://discord.gg/VrxSx4B
-Github: https://github.com/GoodPro712/AlwaysPrefix
-Patreon: https://www.patreon.com/goodpro712
+Forum: https://forums.terraria.org/index.php?threads/always-a-prefix.85667/  
+Discord: http://discord.metacinna.bar/
